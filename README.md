@@ -6,7 +6,7 @@
 
 ## 내려받기
 
-**[최신 버전 설치 파일 받기](https://github.com/eqwas/webtoon-feedback_greenviewer/releases/latest)** — 릴리스 페이지 아래쪽 Assets의 `GreenViewer-<버전>-setup.exe`
+**[최신 버전 설치 파일 받기](https://github.com/8arkJW/webtoon-feedback_greenviewer/releases/latest)** — 릴리스 페이지 아래쪽 Assets의 `GreenViewer-<버전>-setup.exe`
 
 - Windows 10 / 11 (64비트)
 - 현재 사용자 계정에 설치되며 관리자 권한은 필요 없습니다.
